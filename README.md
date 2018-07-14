@@ -1,7 +1,7 @@
 unifi-pfsense
 =============
 
-A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
+A script that installs the UniFi Controller LTS version software on pfSense and other FreeBSD systems
 
 Purpose
 -------
